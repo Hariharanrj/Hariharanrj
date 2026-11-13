@@ -75,7 +75,7 @@ Currently working as a **Data Science, AI & ML Intern at Bdreamz Global Solution
 
 ## 💻 Featured Projects
 
-### 📊 1. Vendor Performance & Profitability Analytics
+###  1. Vendor Performance & Profitability Analytics
 
 End-to-end vendor analytics solution focused on sales performance, profitability analysis, and data-driven procurement insights.
 
@@ -83,7 +83,7 @@ End-to-end vendor analytics solution focused on sales performance, profitability
 
 [![Vendor Project](https://github-readme-stats.vercel.app/api/pin/?username=Hariharanrj&repo=vendor-performance-profitability-analytics&theme=tokyonight&hide_border=true)](https://github.com/Hariharanrj/vendor-performance-profitability-analytics)
 
-### 🛡️ 2. AI-Based Real-Time Fraud Detection System
+###  2. AI-Based Real-Time Fraud Detection System
 
 Machine learning-based fraud detection application with real-time and batch prediction, risk scoring, SHAP explainability, analytics dashboards, and automated alerts.
 
@@ -91,7 +91,7 @@ Machine learning-based fraud detection application with real-time and batch pred
 
 [![Fraud Detection](https://github-readme-stats.vercel.app/api/pin/?username=Hariharanrj&repo=AI-Fraud-Detection-System&theme=tokyonight&hide_border=true)](https://github.com/Hariharanrj/AI-Fraud-Detection-System)
 
-### 🧠 3. AI Resume Analyzer
+###  3. AI Resume Analyzer
 
 AI-powered resume analysis application using LLMs, semantic matching, vector search, and Retrieval-Augmented Generation.
 
@@ -99,7 +99,7 @@ AI-powered resume analysis application using LLMs, semantic matching, vector sea
 
 [![Resume Analyzer](https://github-readme-stats.vercel.app/api/pin/?username=Hariharanrj&repo=ai-resume-analyzer&theme=tokyonight&hide_border=true)](https://github.com/Hariharanrj/ai-resume-analyzer)
 
-### 🎓 4. Student Performance Prediction System
+###  4. Student Performance Prediction System
 
 Machine learning application for predicting academic performance and student risk levels using explainable AI and interactive dashboards.
 
@@ -107,7 +107,7 @@ Machine learning application for predicting academic performance and student ris
 
 [![Student Prediction](https://github-readme-stats.vercel.app/api/pin/?username=Hariharanrj&repo=Student-Performance-Prediction-System&theme=tokyonight&hide_border=true)](https://github.com/Hariharanrj/Student-Performance-Prediction-System)
 
-### ⚡ 5. Energy Optimize Pro
+###  5. Energy Optimize Pro
 
 AI-powered smart energy monitoring and grid management project focused on energy analytics, load optimization, and intelligent alerts.
 
@@ -117,20 +117,20 @@ AI-powered smart energy monitoring and grid management project focused on energy
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hariharanrj&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hariharanrj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
-### 🔥 Contribution Streak
+###  Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Hariharanrj&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-### 📈 Contribution Activity
+###  Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hariharanrj&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution Activity Graph"/>
@@ -138,7 +138,7 @@ AI-powered smart energy monitoring and grid management project focused on energy
 
 ---
 
-## 🏆 GitHub Achievements
+##  GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Hariharanrj&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" width="100%" alt="GitHub Trophies"/>
@@ -146,7 +146,7 @@ AI-powered smart energy monitoring and grid management project focused on energy
 
 ---
 
-## 📜 Certifications
+##  Certifications
 
 - 🏅 Generative AI in Action – IBM SkillsBuild
 - 🔐 Google Cloud Cybersecurity Certificate
