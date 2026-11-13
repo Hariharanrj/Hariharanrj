@@ -73,7 +73,7 @@ Currently working as a **Data Science, AI & ML Intern at Bdreamz Global Solution
 
 ---
 
-## 💻 Featured Projects
+##  Featured Projects
 
 ###  1. Vendor Performance & Profitability Analytics
 
@@ -81,7 +81,7 @@ End-to-end vendor analytics solution focused on sales performance, profitability
 
 **Tech:** Python | SQL | SQLite | Pandas | NumPy | Matplotlib | Seaborn
 
-[![Vendor Project](https://github.com/Hariharanrj/vendor-performance-profitability-analytics)
+[Vendor Project](https://github.com/Hariharanrj/vendor-performance-profitability-analytics)
 
 ###  2. AI-Based Real-Time Fraud Detection System
 
