@@ -89,7 +89,7 @@ Machine learning-based fraud detection application with real-time and batch pred
 
 **Tech:** Python | XGBoost | Scikit-learn | SHAP | Streamlit | Plotly | MySQL
 
-[![Fraud Detection](https://github-readme-stats.vercel.app/api/pin/?username=Hariharanrj&repo=AI-Fraud-Detection-System&theme=tokyonight&hide_border=true)](https://github.com/Hariharanrj/AI-Fraud-Detection-System)
+[Fraud Detection](https://github.com/Hariharanrj/AI-Fraud-Detection-System)
 
 ###  3. AI Resume Analyzer
 
@@ -97,7 +97,7 @@ AI-powered resume analysis application using LLMs, semantic matching, vector sea
 
 **Tech:** Python | LangChain | OpenAI | ChromaDB | RAG | Streamlit
 
-[![Resume Analyzer](https://github-readme-stats.vercel.app/api/pin/?username=Hariharanrj&repo=ai-resume-analyzer&theme=tokyonight&hide_border=true)](https://github.com/Hariharanrj/ai-resume-analyzer)
+[Resume Analyzer](https://github.com/Hariharanrj/ai-resume-analyzer)
 
 ###  4. Student Performance Prediction System
 
@@ -105,7 +105,7 @@ Machine learning application for predicting academic performance and student ris
 
 **Tech:** Python | Scikit-learn | XGBoost | SHAP | Streamlit | MySQL
 
-[![Student Prediction](https://github-readme-stats.vercel.app/api/pin/?username=Hariharanrj&repo=Student-Performance-Prediction-System&theme=tokyonight&hide_border=true)](https://github.com/Hariharanrj/Student-Performance-Prediction-System)
+[Student Prediction](https://github.com/Hariharanrj/Student-Performance-Prediction-System)
 
 ###  5. Energy Optimize Pro
 
@@ -117,34 +117,12 @@ AI-powered smart energy monitoring and grid management project focused on energy
 
 ---
 
-##  GitHub Analytics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hariharanrj&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hariharanrj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
 ###  Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Hariharanrj&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-###  Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hariharanrj&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution Activity Graph"/>
-</p>
-
----
-
-##  GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hariharanrj&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" width="100%" alt="GitHub Trophies"/>
-</p>
-
----
 
 ##  Certifications
 
