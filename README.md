@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Hariharan J!
 
-<h3 align="center">Aspiring Data Analyst | AI & Data Science Graduate</h3>
+<h3 align="center">Aspiring Data Science, Data Analyst | AI & Data Science Graduate</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=650&lines=Turning+Data+into+Actionable+Insights;Python+%7C+SQL+%7C+Excel+%7C+Power+BI;Exploring+Machine+Learning+%26+Generative+AI;Building+Practical+Data-Driven+Solutions" alt="Typing SVG"/>
@@ -39,7 +39,7 @@ Currently working as a **Data Science, AI & ML Intern at Bdreamz Global Solution
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
-### Data Analytics & Visualization
+### Data Science, Data Analytics & Visualization
 
 <p>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
