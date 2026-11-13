@@ -81,7 +81,7 @@ End-to-end vendor analytics solution focused on sales performance, profitability
 
 **Tech:** Python | SQL | SQLite | Pandas | NumPy | Matplotlib | Seaborn
 
-[![Vendor Project](https://github-readme-stats.vercel.app/api/pin/?username=Hariharanrj&repo=vendor-performance-profitability-analytics&theme=tokyonight&hide_border=true)](https://github.com/Hariharanrj/vendor-performance-profitability-analytics)
+[![Vendor Project](https://github.com/Hariharanrj/vendor-performance-profitability-analytics)
 
 ###  2. AI-Based Real-Time Fraud Detection System
 
